@@ -1,27 +1,93 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Bare](http://startbootstrap.com/template-overviews/bare/)
+# AppUI-Stub
 
-[Bare](http://startbootstrap.com/template-overviews/bare/) is a bare HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
+Collection of reusable UI views original designed for a social network/connections application based on Boostraps' [Bare](http://startbootstrap.com/template-overviews/bare/) template.
 
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/bare/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-bare.git`
+* Clone the repo: `git clone https://github.com/ernstmelias/APPUI.git`
 * Fork the repo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-bare/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/bare/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/ernstmelias/APPUI/issues) here on GitHub. 
 
-## Creator
+## Account
+* A user account managment page.
+* account.html
+![title](images/account.jpg)
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Connections
+* A page for  list of friends.
+* connections.html
+![title](images/connections.jpg)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## Dash
+* User dashboard.
+* dash.html
+![title](images/dash.jpg)
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Favorites
+* List of favorite friends/requests.
+* favorites.html
+![title](images/favorites.jpg)
 
-## Copyright and License
+## Forgot Password
+* Recover password screen.
+* forgot.html
+![title](images/forgot.jpg)
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-bare/blob/gh-pages/LICENSE) license.
+## Forgot Username
+* Recover username screen.
+* forgotuser.html
+![title](images/forgotuser.jpg)
+
+## Games
+* Home page of available games.
+* games.html
+![title](images/games.jpg)
+
+## Index
+* Welcome screen.
+* index.html
+![title](images/index.jpg)
+
+## Login
+* Login screen.
+* login.html
+![title](images/login.jpg)
+
+## Messages
+* Sent/Received messages.
+* messages.html
+![title](images/messages.jpg)
+
+## Profile
+* User profile screen.
+* profile.html
+![title](images/profile.jpg)
+
+## Register
+* Register screen.
+* register.html
+![title](images/register.jpg)
+
+## Roulette
+* Roulette connection.
+* roulette.html
+![title](images/roulette.jpg)
+
+## Subscription
+* SubScription screen setup.
+* subscription.html
+![title](images/subscription.jpg)
+
+
+## FAQ
+* Boostrap
+* HTML
+* CSS
+* JavaScript
+
+## LICENSE
+* [ MIT License ](http://badges.mit-license.org)
